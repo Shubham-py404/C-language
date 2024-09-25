@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "01_hello world.C": "cpp"
+    }
+}
